@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>3`]`I(XYQT5RZ@%CUVG%U37.png</filename>
+	<path>D:\360MoveData\Users\44380\Desktop\abc\VOC\VOCdevkit\VOC2007\JPEGImages\3`]`I(XYQT5RZ@%CUVG%U37.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>885</width>
+		<height>549</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>river</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>4</ymin>
+			<xmax>522</xmax>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+</annotation>

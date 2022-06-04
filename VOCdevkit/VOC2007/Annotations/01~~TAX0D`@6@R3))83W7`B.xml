@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>01~~TAX0D`@6@R3))83W7`B.png</filename>
+	<path>D:\360MoveData\Users\44380\Desktop\abc\VOC\VOCdevkit\VOC2007\JPEGImages\01~~TAX0D`@6@R3))83W7`B.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>793</width>
+		<height>681</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>147</ymin>
+			<xmax>658</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>3A$X_CZAJLV{4{QTI)D3SAC.png</filename>
+	<path>D:\360MoveData\Users\44380\Desktop\abc\VOC\VOCdevkit\VOC2007\JPEGImages\3A$X_CZAJLV{4{QTI)D3SAC.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>829</width>
+		<height>581</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>270</xmin>
+			<ymin>132</ymin>
+			<xmax>736</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+</annotation>

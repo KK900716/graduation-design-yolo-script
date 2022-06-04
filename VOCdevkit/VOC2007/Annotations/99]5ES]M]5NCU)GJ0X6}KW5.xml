@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>99]5ES]M]5NCU)GJ0X6}KW5.png</filename>
+	<path>D:\360MoveData\Users\44380\Desktop\新建文件夹 (5)\yolov5\VOCdevkit\VOC2007\JPEGImage\99]5ES]M]5NCU)GJ0X6}KW5.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>679</width>
+		<height>691</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>133</ymin>
+			<xmax>475</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+</annotation>

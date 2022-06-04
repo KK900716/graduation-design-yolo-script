@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImage</folder>
+	<filename>SF{}C}{Q860F{}GT)SRO}4J.png</filename>
+	<path>D:\360MoveData\Users\44380\Desktop\新建文件夹 (5)\yolov5\VOCdevkit\VOC2007\JPEGImage\SF{}C}{Q860F{}GT)SRO}4J.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1289</width>
+		<height>803</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>339</xmin>
+			<ymin>6</ymin>
+			<xmax>932</xmax>
+			<ymax>782</ymax>
+		</bndbox>
+	</object>
+</annotation>

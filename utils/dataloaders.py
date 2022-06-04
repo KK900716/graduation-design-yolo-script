@@ -133,7 +133,7 @@ def create_dataloader(path,
     return loader(dataset,
                   batch_size=batch_size,
                   shuffle=shuffle and sampler is None,
-                  num_workers=nw,
+                  num_workers=0,
                   sampler=sampler,
                   pin_memory=True,
                   collate_fn=LoadImagesAndLabels.collate_fn4 if quad else LoadImagesAndLabels.collate_fn), dataset

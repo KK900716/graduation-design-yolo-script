@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>F)37Z[05%22H5EZ7{2P`ACY.png</filename>
+	<path>D:\360MoveData\Users\44380\Desktop\abc\VOC\VOCdevkit\VOC2007\JPEGImages\F)37Z[05%22H5EZ7{2P`ACY.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>837</width>
+		<height>611</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lake</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>75</xmin>
+			<ymin>184</ymin>
+			<xmax>778</xmax>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>IQ4L]Y]@C2OHW)[BLWCFYO3.png</filename>
+	<path>D:\360MoveData\Users\44380\Desktop\abc\VOC\VOCdevkit\VOC2007\JPEGImages\IQ4L]Y]@C2OHW)[BLWCFYO3.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>455</width>
+		<height>659</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>river</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>2</ymin>
+			<xmax>452</xmax>
+			<ymax>651</ymax>
+		</bndbox>
+	</object>
+</annotation>
